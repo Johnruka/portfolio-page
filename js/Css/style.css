@@ -82,7 +82,7 @@ h3 {
 
 /* Profile Picture Styling */
 .profile-picture {
-    width: 150px;
+    width: 200px;
     height: 150px;
     object-fit: cover;
     border-radius: 50%;
