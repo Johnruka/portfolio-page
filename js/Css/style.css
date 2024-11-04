@@ -82,10 +82,10 @@ h3 {
 
 /* Profile Picture Styling */
 .profile-picture {
-    width: 200px;
+    width: 50px;
     height: 150px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 120%;
     border: 3px solid #4caf50; /* Green border */
 }
 
