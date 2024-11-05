@@ -82,11 +82,11 @@ h3 {
 
 /* Profile Picture Styling */
 .profile-picture {
-    width: 50px;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 120%;
-    border: 3px solid #4caf50; /* Green border */
+    width: 150px !important;
+    height: 150px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+    border: 3px solid #4caf50 !important;
 }
 
 /* Navbar Icon Styling */
