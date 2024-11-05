@@ -18,3 +18,4 @@ function submitForm(event) {
     document.getElementById("phone").value = "";
     document.getElementById("message").value = "";
 }
+console.log()
