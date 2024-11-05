@@ -82,8 +82,8 @@ h3 {
 
 /* Profile Picture Styling */
 .profile-picture {
-    width: 150px !important;
-    height: 150px !important;
+    width: 200px !important;
+    height: 265px !important;
     object-fit: cover !important;
     border-radius: 50% !important;
     border: 3px solid #4caf50 !important;
@@ -91,8 +91,8 @@ h3 {
 
 /* Navbar Icon Styling */
 .navbar .nav-link img.social-icon {
-    width: 25px;
-    height: 25px;
+    width: 40px;
+    height: 40px;
     filter: brightness(80%); /* Slight dim for consistency */
 }
 
